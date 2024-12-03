@@ -1,0 +1,15 @@
+# Datos
+data/raw/
+data/processed/
+
+# Editor y archivos temporales
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Entorno virtual
+venv/
+__pychache__/
+
+# Dependencias
+*.pyc
