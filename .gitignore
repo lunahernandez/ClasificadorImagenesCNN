@@ -1,6 +1,5 @@
 # Datos
-data/raw/
-data/processed/
+data
 
 # Editor y archivos temporales
 .vscode/
